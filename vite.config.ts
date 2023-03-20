@@ -21,7 +21,7 @@ export default defineConfig({
         format: 'commonjs',
         inlineDynamicImports: true,
         entryFileNames: 'viteWidget.js',
-        assetFileNames: 'viteWidget.js',
+        assetFileNames: 'viteAssets.css',
       },
     },
   },
